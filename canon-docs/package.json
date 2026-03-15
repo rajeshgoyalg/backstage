@@ -23,7 +23,7 @@
     "react-dom": "^18.0.2",
     "react-frame-component": "^5.2.7",
     "shiki": "^1.26.1",
-    "storybook": "^8.6.8"
+    "storybook": "^8.6.17"
   },
   "devDependencies": {
     "@types/mdx": "^2.0.13",
